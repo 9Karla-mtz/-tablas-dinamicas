@@ -1,4 +1,4 @@
-# -tablas-dinamicas
+
 # Análisis de Ventas con Tablas Dinámicas
 
 Este proyecto muestra cómo usar tablas dinámicas en Excel para analizar ventas mensuales por producto, región y vendedor.
